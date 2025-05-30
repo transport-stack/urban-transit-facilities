@@ -1,0 +1,290 @@
+station_name	station_code	elevated	toilet	parking_available	parking_cycle	parking_motorcycle	parking_car	gate_location	lat	lon	contractor	contact_number	parking_lat	parking_lon
+adarsh nagar	AHNR	TRUE	TRUE	FALSE	0	0	0		29	77				
+ashram	AHRM	FALSE	TRUE	FALSE	0	0	0		29	77				
+aiims	AIIMS	FALSE	TRUE	FALSE	0	0	0		29	77				
+arjan garh	AJG	TRUE	TRUE	TRUE	32	311	30	Near Gate No.1	28	77	M/s. Consortium of Rich Pal Singh & M/s Rich Pal Singh and Co.	9891327777	28	77
+ashok park main	APMN	TRUE	TRUE	FALSE	0	0	0		29	77				
+akshardham	ASDM	TRUE	TRUE	TRUE	40	150	120	Basement	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+arthala	ATHA	TRUE	TRUE	FALSE	0	0	0		29	77				
+anand vihar isbt	AVIT	TRUE	TRUE	FALSE	0	0	0		29	77				
+azadpur	AZU	TRUE	TRUE	TRUE	51	491	48	Near Gate Number-04	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+bata chowk	BACH	TRUE	TRUE	TRUE	10	250	20	Near Gate No. 3	28	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	28	77
+badarpur border	BAPB	TRUE	TRUE	TRUE	143	1372	133	Near Gate No.1	28	77	Operated by DMRC.	8800793232		
+botanical garden	BCGN	FALSE	TRUE	TRUE	20	750	175	Near Gate No. 3	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+haiderpur badli mor	BIMR	TRUE	TRUE	TRUE	57	552	54	Near Gate Number- 1 & 2	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"		
+bhikaji cama place	BKCP	FALSE	TRUE	FALSE	0	0	0		29	77				
+badkal mor	BKMR	TRUE	TRUE	FALSE	0	0	0		28	77				
+barakhamba road	BRKR	FALSE	TRUE	FALSE	0	0	0							
+bahadurgarh city	BUSS	TRUE	TRUE	FALSE	0	0	0		29	77				
+raja nahar singh (ballabhgarh)	BVHM	FALSE	TRUE	TRUE	100	200	150	Near Gate No. 2	28	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	28	77
+chirag delhi	CDLI	FALSE	TRUE	FALSE	0	0	0		29	77				
+chandni chowk	CHK	FALSE	TRUE	FALSE	0	0	0		29	77				
+chhatarpur	CHTP	TRUE	TRUE	TRUE	84	810	79	Near Gate No. 2	29	77	M/s. Rich Pal Singh.	9891327777	29	77
+brig. hoshiar singh	CIPK	TRUE	TRUE	TRUE	54	517	50	Near Gate No. 2	29	77	M/s. Sanjeev Kumar.	9910719234	29	77
+civil lines	CL	FALSE	TRUE	FALSE	0	0	0		29	77				
+central secretariat	CTST	FALSE	TRUE	FALSE	0	0	0		29	77				
+chawri bazar	CWBR	FALSE	TRUE	FALSE	0	0	0		29	77				
+dabri mor - janakpuri south	DBMR	FALSE	TRUE	FALSE	0	0	0		29	77				
+durgabai deshmukh south campus	DDSC	TRUE	TRUE	FALSE	0	0	0		29	77				
+delhi cantt.	DLIC	TRUE	TRUE	FALSE	0	0	0		29	77				
+delhi gate	DLIG	FALSE	TRUE	FALSE	0	0	0		29	77				
+dwarka mor	DM	TRUE	TRUE	TRUE	48	464	45	Near Gate 01	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+dwarka mor	DM	TRUE	TRUE	TRUE	25	235	23	Near Gate 02	29	77	M/s. Lakhvinder Singh.	9711113313	29	77033418
+dhansa bus stand	DNBT	TRUE	TRUE	TRUE	50	200	130	Underground	29	77	M/s ID TECH Solutions Pvt. Ltd.	9911752223		
+dwarka sector - 11	DSE	TRUE	TRUE	TRUE	58	550	54	Near Gate 01 & 02	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+dwarka sector - 8	DSET	TRUE	TRUE	FALSE	0	0	0		29	77				
+dwarka sector - 14	DSFN	TRUE	TRUE	TRUE	14	135	13	Near Gate 01	29	77	M/s. Hindustan Trading Co.	9891014005	29	77
+dilshad garden	DSG	TRUE	TRUE	TRUE	10	300	100	Near Gate No 2	29	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	28	77
+dilshad garden	DSG	TRUE	TRUE	TRUE	0	350	0	Near Gate No 1	29	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	28	77
+dilshad garden	DSG	TRUE	TRUE	TRUE	0	0	100	Near Gate No 2	29	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	28	77
+dashrathpuri	DSHP	FALSE	TRUE	FALSE	0	0	0		29	77				
+dwarka sector - 9	DSN	TRUE	TRUE	TRUE	140	1341	130	Near Gate 01	29	77	M/s. Manpreet Singh & Co.	9810187157	29	77
+dwarka sector - 10	DST	TRUE	TRUE	FALSE	0	0	0		29	77				
+dwarka sector - 13	DSTN	TRUE	TRUE	FALSE	0	0	0		29	77				
+dwarka sector - 21	DSTO	FALSE	TRUE	TRUE	15	150	80	Outside Metro Station	29	77				
+dwarka sector - 21	DSTO	FALSE	TRUE	TRUE	25	250	120	Outside Metro Station	29	77				
+dwarka sector - 12	DSW	TRUE	TRUE	TRUE	20	50	100	Near to Gate 02	29	77				
+dwarka	DW	TRUE	TRUE	TRUE	119	1143	111	Near Gate 02	29	77	M/s. Tun Tun Kumar Singh	9818572362		
+east azad nagar	EANR	TRUE	TRUE	FALSE	0	0	0		29	77				
+escorts mujesar	ECMJ	TRUE	TRUE	TRUE	10	200	15	Near Gate No. 2	28	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	28	77
+escorts mujesar	ECMJ	TRUE	TRUE	TRUE	10	200	15	Near Gate No. 3	28	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	28	77
+esi-basaidarapur	ESIH	TRUE	TRUE	FALSE	0	0	0		29	77				
+govindpuri	GDPI	TRUE	TRUE	TRUE	107	1022	99	Near Gate No. 2	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+guru dronacharya	GE	TRUE	TRUE	TRUE	98	938	91	Near Gate No.1	28	77	M/s. Rich Pal Singh.	9891327777	28	77
+golf course	GEC	TRUE	TRUE	FALSE	0	0	0		29	77				
+ghevra metro station	GHEM	TRUE	TRUE	FALSE	0	0	0		29	77				
+greater kailash	GKEI	FALSE	TRUE	FALSE	0	0	0		29	77				
+gokulpuri	GKPR	TRUE	TRUE	FALSE	0	0	0		29	77				
+green park	GNPK	FALSE	TRUE	TRUE	20	120	43	Near Gate No. 2	29	77				
+guru teg bahadur nagar	GTBR	FALSE	TRUE	TRUE	74	714	69	Near Gate No. 5	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+ghitorni	GTNI	TRUE	TRUE	TRUE	103	985	96	Near Gate No.1	28	77	M/s. Consortium of Rich Pal Singh & M/s Rich Pal Singh and Co.	9891327777	28	77
+millennium city centre gurugram	HCC	TRUE	TRUE	TRUE	318	3052	297	Near Gate No. 4	28	77			28	77
+millennium city centre gurugram	HCC	TRUE	TRUE	TRUE	318	3052	297	Near Gate No. 3	28	77			28	77
+hindon river	HDNR	TRUE	TRUE	TRUE	49	594	57	Near Gate No.1	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+hauz khas	HKS	FALSE	TRUE	TRUE	35	339	33	Near Gate No. 3	29	77	M/s. Rich Pal Singh.	9891327777	29	77
+harkesh nagar okhla	HNOK	TRUE	TRUE	TRUE	97	930	90	Near Gate No. 3	29	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	29	77
+indraprastha	IDPT	TRUE	TRUE	TRUE	10	50	150	Near Gate No.1	29	77	Operated by DMRC	8800793166	29	77
+iffco chowk	IFOC	TRUE	TRUE	TRUE	318	1198	116	Near Gate No. 2	28	77	M/s. Joginder Singh.	9910719234	28	77
+terminal 1-igi airport	IGDA	FALSE	TRUE	FALSE	0	0	0		29	77				
+iit	IIT	FALSE	TRUE	FALSE	0	0	0		29	77				
+inderlok	ILOK	TRUE	TRUE	TRUE	164	1577	153	Near Gate No.1	29	77	M/s. Joginder Singh.	9910719234	29	77
+dilli haat - ina	INA	FALSE	TRUE	FALSE	0	0	0		29	77				
+i.p. extension	IPE	TRUE	TRUE	FALSE	0	0	0							
+ito	ITO	FALSE	TRUE	FALSE	0	0	0		29	77				
+sukhdev vihar	IWNR	TRUE	TRUE	FALSE	0	0	0		29	77				
+jama masjid	JAMD	FALSE	TRUE	FALSE	0	0	0		29	77				
+jamia milia islamiya	JANR	FALSE	TRUE	TRUE	50	476	46	Near Gate Number-03	29	77	M/s. Tara Singh.	9213224865	27	77
+jor bagh	JB	FALSE	TRUE	FALSE	0	0	0							
+jafrabad	JFRB	TRUE	TRUE	FALSE	0	0	0		29	77				
+jangpura	JGPA	FALSE	TRUE	FALSE	0	0	0		29	77				
+jahangirpuri	JGPI	TRUE	TRUE	TRUE	84	808	79	Near Gate No. 1 and 2	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+johri enclave	JIEE	TRUE	TRUE	FALSE	0	0	0		29	77				
+jasola-apollo	JLA	TRUE	TRUE	TRUE	22	207	20	Near Gate Number-1	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+jasola vihar shaheen bagh	JLA8	FALSE	TRUE	TRUE	88	848	82	Near Gate Number-03	29	77	M/s. Tara Singh.	9213224865	29	77
+jhilmil	JLML	TRUE	TRUE	TRUE	50	250	105	Near Gate Number-02	29	77			29	77
+jln stadium	JLNS	FALSE	TRUE	FALSE	0	0	0							
+janpath	JNPH	FALSE	TRUE	FALSE	0	0	0		29	77				
+janak puri east	JPE	TRUE	TRUE	TRUE	76	731	71	Near Gate No. 02	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+janak puri west	JPW	TRUE	TRUE	FALSE	0	0	0		29	77				
+jhandewalan	JW	TRUE	TRUE	FALSE	0	0	0		29	77				
+karol bagh	KB	TRUE	TRUE	FALSE	0	0	0		29	77				
+kohat enclave	KE	TRUE	TRUE	TRUE	25	150	200	Near Gate Number-1	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+kohat enclave	KE	TRUE	TRUE	TRUE	15	100	30	Near Gate Number-2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+kashmere gate	KG	FALSE	TRUE	TRUE	165	1584	154	Near Gate Number-1	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+kashmere gate	KG	FALSE	TRUE	TRUE	165	1584	154	Near Gate Number-2	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+kashmere gate	KG	FALSE	TRUE	TRUE	165	1584	154	Near Gate Number-3	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+kashmere gate	KG	FALSE	TRUE	TRUE	165	1584	154	Near Gate Number-4	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+kailash colony	KHCY	TRUE	TRUE	FALSE	0	0	0		29	77				
+krishna nagar	KHNA	FALSE	TRUE	FALSE	0	0	0		29	77				
+kalindi kunj	KIKJ	FALSE	TRUE	TRUE	68	648	63		29	77	Operated by DMRC.	9205682376	29	77
+kalkaji mandir	KJMD	FALSE	TRUE	TRUE	0	100	150	Near Gate Number-1	29	77	M/s. V Inspirer Facility Management Pvt. Ltd.	9910803493	29	77
+karkarduma	KKDA	TRUE	TRUE	TRUE	35	400	200	Near Gate Number-2	29	77	M/s. Snepra Secure Services Pvt. Ltd	9650365860	29	77
+karkarduma court	KKDC	TRUE	TRUE	FALSE	0	0	0		29	77				
+khan market	KM	FALSE	TRUE	FALSE	0	0	0		29	77				
+kanhaiya nagar	KN	TRUE	TRUE	TRUE	60	1200	400	Gate No. 1	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+kanhaiya nagar	KN	TRUE	TRUE	TRUE	20	90	25	Gate No. 4	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+kanhaiya nagar	KN	TRUE	TRUE	TRUE	30	100	30	Gate No. 3	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+kirti nagar	KNR	TRUE	TRUE	TRUE	58	578	154	Near Gate No. 1 (L-5)	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+kirti nagar	KNR	TRUE	TRUE	TRUE	58	578	154	Near Gate No. 1 (L-3)	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+keshav puram	KP	TRUE	TRUE	TRUE	60	350	100	Gate No. 3	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+kaushambi	KSHI	TRUE	TRUE	TRUE	20	250	100	Near Gate Number- 1	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+kaushambi	KSHI	TRUE	TRUE	TRUE	20	250	100	Near Gate Number- 2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+lajpat nagar	LJPN	TRUE	TRUE	TRUE	10	40	75	Near Gate Number-1	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+lok kalyan marg	LKM	FALSE	TRUE	FALSE	0	0	0		29	77				
+lal quila	LLQA	FALSE	TRUE	FALSE	0	0	0		29	77				
+laxmi nagar	LN	TRUE	TRUE	FALSE	0	0	0		29	77				
+madipur	MAPR	TRUE	TRUE	TRUE	104	997	97	Near Gate No.1	29	77	M/s. Manpreet Singh & Co.	9810187157	29	77
+mandi house	MDHS	FALSE	TRUE	FALSE	0	0	0		29	77				
+model town	MDTW	TRUE	TRUE	FALSE	0	0	0		29	77				
+mohan estate	METE	TRUE	TRUE	TRUE	91	873	85	Near Gate No.1	29	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	29	77
+m.g. road	MGRO	TRUE	TRUE	TRUE	35	338	33	Near Gate No.1	28	77	M/s. Joginder Singh.	9910719234	28	77
+mundka industrial area (mia)	MIAA	TRUE	TRUE	FALSE	0	0	0		29	77				
+pandit shree ram sharma	MIEE	TRUE	TRUE	TRUE	60	572	56	Near Gate No. 2	29	77	M/s. Sanjeev Kumar.	9910719234	29	77
+munirka	MIRK	FALSE	TRUE	FALSE	0	0	0		29	77				
+munirka	MIRK	FALSE	TRUE	FALSE	0	0	0		29	77				
+majlis park	MKPR	TRUE	TRUE	TRUE	100	150	70	Near Gate No. 2	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+moolchand	MLCD	TRUE	TRUE	TRUE	32	304	30	Near Gate No. 1	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+mewala maharajpur	MMJR	TRUE	TRUE	TRUE	15	146	14	Near Gate No. 3	28	77	M/s. V Inspirer Facility Management Pvt. Ltd	9910803493	28	77
+moti nagar	MN	TRUE	TRUE	TRUE	94	901	89	Near Gate 1	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+moti nagar	MN	TRUE	TRUE	TRUE	94	901	89	Near Gate 4	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+mohan nagar	MNGM	TRUE	TRUE	FALSE	0	0	0		29	77				
+mansarovar park	MPK	TRUE	TRUE	TRUE	60	250	30	Near Gate 01 & 02			M/s. Hindustan Trading Co.	9891014005	29	77
+mansarovar park	MPK	TRUE	TRUE	TRUE	60	250	30	Near Gate 01 & 02			M/s. Hindustan Trading Co.	9891014005	29	77
+mundka	MUDK	TRUE	TRUE	TRUE	120	1154	112	Near Gate No.2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+maujpur-babarpur	MUPR	TRUE	TRUE	FALSE	0	0	0		29	77				
+mayur vihar extension	MVE	TRUE	TRUE	TRUE	50	250	50	Near Gate No. 1	29	77	M/s. Snepra Secure Services Pvt. Ltd	9650365860	29	77
+malviya nagar	MVNR	FALSE	TRUE	TRUE	29	282	27	Near Gate No. 3	29	77			29	77
+mayur vihar -i	MVP1	TRUE	TRUE	TRUE	15	100	40	Near Gate No. 1	29	77	M/s. Snepra Secure Services Pvt. Ltd	9650365860	29	77
+mayur vihar pocket-1	MVPO	TRUE	TRUE	FALSE	0	0	0		29	77				
+mayapuri	MYPI	TRUE	TRUE	TRUE	46	445	43	Near Gate no 2	29	77	M/s. Surjeet	9999705531	77	29
+new ashok nagar	NAGR	TRUE	TRUE	FALSE	0	0	0		29	77				
+naraina vihar	NAVR	FALSE	TRUE	FALSE	0	0	0		29	77				
+shaheed sthal ( new bus adda)	NBAA	TRUE	TRUE	TRUE	16	311	0	Gate No 2	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+neelam chowk ajronda	NCAJ	TRUE	TRUE	TRUE	15	250	100	Near Gate No.3	28	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	28	77
+sant surdas (sihi)	NCBC	TRUE	TRUE	FALSE	0	0	0		28	77				
+noida city centre	NCC	TRUE	TRUE	TRUE	50	220	90	Near Gate No. 1 & 3	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	TRUE	0	100	800	Multi Level Car Parking Building						
+noida electronic city	NECC	TRUE	TRUE	TRUE	10	300	150	Near Gate No. 1	29	77			29	77
+najafgarh	NFGH	FALSE	TRUE	TRUE	55	220	58		29	77	M/s. Ashok Kumar Sharma	9868266382	29	77
+nhpc chowk	NHPC	TRUE	TRUE	TRUE	56	534	52	Near Gate no 3	28	77	M/s. Hindustan Trading Co.	9891014005	28	77
+nhpc chowk	NHPC	TRUE	TRUE	TRUE	56	534	52	Near Gate no 2	28	77	M/s. Hindustan Trading Co.	9891014005	28	77
+nhpc chowk	NHPC	TRUE	TRUE	TRUE	56	534	52	Near Gate no 2	28	77	M/s. Hindustan Trading Co.	9891014005	28	77
+sarai kale khan - nizamuddin	NIZM	FALSE	TRUE	FALSE	0	0	0		29	77				
+nangli	NNGI	TRUE	TRUE	FALSE	0	0	0		29	77				
+nangloi	NNOI	TRUE	TRUE	TRUE	101	965	94	Towards Gate No.2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+nehru place	NP	TRUE	TRUE	TRUE	134	1288	125	Near Gate No. 2	29	77			29	77
+nangloi railway station	NRSN	TRUE	TRUE	FALSE	0	0	0		29	77				
+noida sector-18	NSET	TRUE	TRUE	FALSE	0	0	0		28	77				
+noida sector-15	NSFT	TRUE	TRUE	FALSE	0	0	0		28	77				
+netaji subhash place	NSHP	TRUE	TRUE	TRUE	50	200	80	Near Gate No. 2	29	77	M/s. Ashok Kumar Sharma	9868266382	29	77
+noida sector-16	NSST	TRUE	TRUE	FALSE	0	0	0		28	77				
+nehru enclave	NUEE	FALSE	TRUE	FALSE	0	0	0		29	77				
+nirman vihar	NV	TRUE	TRUE	FALSE	0	0	0		29	77				
+nawada	NWD	TRUE	TRUE	TRUE	14	135	13	Near Gate 01	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+old faridabad	OFDB	TRUE	TRUE	TRUE	15	250	100	Near Gate No. 1	28	77	M/s. Dhiraj Gupta.	9811115398	28	77
+old faridabad	OFDB	TRUE	TRUE	TRUE	15	250	100	Near Gate No. 3	28	77	M/s. Dhiraj Gupta.	9811115398	28	77
+okhla bird sanctuary	OKBS	FALSE	TRUE	TRUE	40	700	190	Near Gate No. 3	29	77	Raj Kumar Khanna & Sons	9810250891	29	77
+okhla bird sanctuary	OKBS	FALSE	TRUE	TRUE	40	700	190	Near Gate No. 1	29	77	Raj Kumar Khanna & Sons	9810250891	29	77
+okhla nsic	OKNS	FALSE	TRUE	FALSE	0	0	0		29	77				
+okhla vihar	OVA	TRUE	TRUE	FALSE	0	0	0		29	77				
+peeragarhi	PAGI	TRUE	TRUE	TRUE	54	516	50	Near Gate No. 1	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+palam	PALM	FALSE	TRUE	TRUE	46	439	43		29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+punjabi bagh	PBGA	TRUE	TRUE	TRUE	64	615	60	Near Gate No. 2	29	77	M/s. Manpreet Singh & Co.	9810187157	29	77
+pulbangash	PBGH	TRUE	TRUE	TRUE	25	77	250	Near Gate No.1	29	77	Raj Kumar Khanna & Sons	9810250891	29	77
+punjabi bagh west	PBGW	FALSE	TRUE	FALSE	0	0	0		29	77				
+patel nagar	PN	TRUE	TRUE	TRUE	31	297	29	Near Gate No. 5	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+pratap nagar	PRA	TRUE	TRUE	TRUE	15	70	130	Near Gate No.1	29	77	M/s. Sanjeev Kumar	9910719234	29	77
+pratap nagar	PRA	TRUE	TRUE	TRUE	15	70	130	Near Gate No.2	29	77	M/s. Sanjeev Kumar	9910719234	29	77
+panchsheel park	PSPK	FALSE	TRUE	FALSE	0	0	0		29	77				
+patel chowk	PTCK	FALSE	TRUE	TRUE	79	760	73	Near Gate No.1	29	77	M/s. Jagtar Singh.	"9968279278
+9711113313"	29	77
+patel chowk	PTCK	FALSE	TRUE	TRUE	91	876	85	Near Gate No.2	29	77	M/s. Jagtar Singh.	"9968279278
+9711113313"	29	77
+patel chowk	PTCK	FALSE	TRUE	TRUE	49	477	46	Near Gate No.3	29	77	M/s. Jagtar Singh.	"9968279278
+9711113313"	29	77
+supreme court	PTMD	TRUE	TRUE	TRUE	20	60	30	Near Gate No.2	29	77	M/s. Snepra Secure Services Pvt. Ltd	9650365860	29	77
+pitampura	PTP	TRUE	TRUE	FALSE	0	0	0		29	77				
+preet vihar	PTVR	TRUE	TRUE	FALSE	0	0	0		29	77				
+paschim vihar east	PVE	TRUE	TRUE	TRUE	30	291	28	Near Gate No.2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+paschim vihar west	PVW	TRUE	TRUE	FALSE	0	0	0		29	77				
+qutab minar	QM	TRUE	TRUE	TRUE	49	471	46	Near Gate No.1	29	77	M/s. Sushil Kumar Singh.	9350998661	29	77
+rajiv chowk	RCK	FALSE	TRUE	TRUE	0	600	1500	Inner Circle Connaught Place	29	77				
+rajdhani park	RDPK	TRUE	TRUE	FALSE	0	0	0		29	77				
+rajouri garden	RG	TRUE	TRUE	TRUE	35	334	32	Near Gate 1 & 3	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+rohini east	RHE	TRUE	TRUE	TRUE	20	200	120	Near Gate No.3	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+rohini east	RHE	TRUE	TRUE	TRUE	4	50	5	Near to Gate 1 & 2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+rohini west	RHW	FALSE	TRUE	FALSE	0	0	0		29	77				
+rithala	RI	TRUE	TRUE	TRUE	125	1198	116	Adjacent to Gate No.2	29	77	M/s. Ajay Kumar.	"9013414327,
+9810035926"	29	77
+rithala	RI	TRUE	TRUE	TRUE	125	1198	116	Adjacent to Gate No.3	29	77	M/s. Ajay Kumar.	"9013414327,
+9810035926"	29	77
+"rohini sector - 18, 19"	RISE	TRUE	TRUE	TRUE	82	791	77	Near Gate Number-02	29	77	M/s. Hindustan Trading Co.	9891014005	29	77
+raj bagh	RJBH	TRUE	TRUE	FALSE	0	0	0		29	77				
+major mohit sharma rajendra nagar	RJNM	TRUE	TRUE	FALSE	0	0	0		29	77				
+ramakrishna ashram marg	RKAM	TRUE	TRUE	TRUE	52	497	48	Near Gate No. 3	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77
+r.k.puram	RKPM	FALSE	TRUE	FALSE	0	0	0							
+ramesh nagar	RN	TRUE	TRUE	TRUE	63	602	59	Near Gate No. 02	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	770131213
+rajendra place	RP	TRUE	TRUE	TRUE	32	305	30	Near Gate No. 1	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+sadar bazar cantonment	SABR	FALSE	TRUE	FALSE	0	0	0		29	77				
+shakurpur	SAKP	TRUE	TRUE	FALSE	0	0	0		29	77				
+saket	SAKT	FALSE	TRUE	TRUE	85	812	79	Near Gate No. 3	29	77	M/s. Rich Pal Singh.	9891327777	29	77
+saket	SAKT	FALSE	TRUE	TRUE	85	812	79	Near Gate No. 2	29	77	M/s. Rich Pal Singh.	9891327777	29	77
+sector - 59 noida	SFNN	TRUE	TRUE	FALSE	0	0	0							
+sector - 52 noida	SFTN	TRUE	TRUE	FALSE	0	0	0							
+shahdara	SHD	TRUE	TRUE	TRUE	163	1569	150	Near Gate No.1	29	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	29	77
+shahdara	SHD	TRUE	TRUE	TRUE	163	1569	150	Near Gate No.1	29	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	29	77
+shaheed nagar	SHDN	TRUE	TRUE	TRUE	74	714	69	Near Gate No. 2	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677		
+shastri park	SHPK	FALSE	TRUE	TRUE	50	250	0	Near Gate No.1	29	77	M/s. Tara Singh	9213224865	29	77
+shastri park	SHPK	FALSE	TRUE	TRUE	0	0	55	Near Gate No.1	29	77	M/s. Tara Singh	9213224865	29	77
+shastri nagar	SHT	TRUE	TRUE	TRUE	9	70	60	Near Gate No. 2	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+shastri nagar	SHT	TRUE	TRUE	TRUE	9	70	60	Near Gate No. 2	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+shastri nagar	SHT	TRUE	TRUE	TRUE	10	20	110	Near Gate No.1	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+shivaji park	SHVP	TRUE	TRUE	FALSE	0	0	0		29	77				
+sikanderpur	SKRP	FALSE	TRUE	TRUE	45	432	42	Near Gate No. 2	28	77	M/s. Joginder Singh.	9910719234	28	77
+shankar vihar	SKVR	FALSE	TRUE	FALSE	0	0	0		29	77				
+seelampur	SLAP	TRUE	FALSE	TRUE	90	900	200	Near Gate No.1	29	77	M/s. Sanjeev Kumar.	9910719234	29	77
+sultanpur	SLTP	TRUE	TRUE	TRUE	9	84	8	Near Gate No. 1	28	77	M/s. Consortium of Rich Pal Singh & M/s Rich Pal Singh and Co.	9891327777	28	77
+shalimar bagh	SMBG	FALSE	TRUE	FALSE	0	0	0		29	77				
+shyam park	SMPK	TRUE	TRUE	FALSE	0	0	0		29	77				
+maharaja surajmal stadium	SMSM	TRUE	TRUE	FALSE	0	0	0		29	77				
+subhash nagar	SN	TRUE	TRUE	TRUE	27	255	25	Near to Gate 02 & 04	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+south extension	SOEN	FALSE	TRUE	FALSE	0	0	0		29	77				
+sarojini nagar	SOJI	FALSE	TRUE	FALSE	0	0	0		29	77				
+shadipur	SP	TRUE	TRUE	TRUE	95	911	89	Near Gate No. 7	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+samaypur badli	SPBI	TRUE	TRUE	FALSE	0	0	0		29	77				
+sarai	SRAI	TRUE	TRUE	TRUE	25	240	23	Near Gate No.2	28	77	M/s. Ashok Kumar Sharma	9868266382	28	77
+satguru ram singh marg	SRSM	TRUE	TRUE	FALSE	0	0	0		29	77				
+sector - 61 noida	SSON	TRUE	TRUE	FALSE	0	0	0							
+sector - 62 noida	SSTN	TRUE	TRUE	FALSE	0	0	0							
+sector - 34 noida	STFN	TRUE	TRUE	FALSE	0	0	0							
+sector-28	STTA	TRUE	TRUE	TRUE	44	223	41	Near Gate No.2	28	77	M/s. V Inspirer Facility Management Pvt. Ltd	9910803493	28	77
+sarita vihar	STVR	TRUE	TRUE	TRUE	70	667	65	Near Gate No.2	29	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	29	77
+sir m. vishweshwaraiah moti bagh	SVMB	TRUE	TRUE	FALSE	0	0	0		29	77				
+shiv vihar	SVVR	TRUE	TRUE	FALSE	0	0	0		29	77				
+tagore garden	TG	TRUE	TRUE	TRUE	36	343	33	Near Gate No.4	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+tagore garden	TG	TRUE	TRUE	TRUE	36	343	33	Near Gate No.1	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+tikri border	TKBR	TRUE	TRUE	FALSE	0	0	0		29	77				
+tughlakabad station	TKDS	TRUE	TRUE	FALSE	0	0	0		29	77				
+tikri kalan	TKLM	TRUE	TRUE	FALSE	0	0	0		29	77	M/s. Lakhvinder Singh.	9711113313		
+trilokpuri-sanjay lake	TKPR	TRUE	TRUE	FALSE	0	0	0		29	77				
+tilak nagar	TN	TRUE	TRUE	TRUE	12	111	11	Near Gate No. 04	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+tis hazari	TZI	TRUE	TRUE	TRUE	50	200	150	Near Gate No.3	29	77			29	77
+udyog bhawan	UDB	FALSE	TRUE	FALSE	0	0	0		29	77				
+uttam nagar east	UNE	TRUE	TRUE	TRUE	105	953	120	Near Gate No. 1	29	77			29	77
+uttam nagar east	UNE	TRUE	TRUE	TRUE	105	953	120	Near Gate No. 2	29	77			29	77
+uttam nagar east	UNE	TRUE	TRUE	TRUE	105	953	120	Near Gate No. 3	29	77			29	77
+udyog nagar	UNRG	TRUE	TRUE	TRUE	87	836	81	Near Gate Number 2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+uttam nagar west	UNW	TRUE	TRUE	TRUE	40	385	37	Near Gate No. 03	29	77	M/s. Kake Finvest Pvt. Ltd.	"9810109914
+9716819619"	29	77
+vaishali	VASI	TRUE	TRUE	TRUE	20	450	0	Opposite Gate No.1 & 2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+vaishali	VASI	TRUE	TRUE	TRUE	20	450	0	Opposite Gate No.1 & 2	29	77	M/s. Lakhvinder Singh.	9711113313	29	77
+east vinod nagar-mayur vihar -ii	VENT	TRUE	TRUE	FALSE	0	0	0		29	77				
+mandawali - west vinod nagar	VNNR	TRUE	TRUE	FALSE	0	0	0		29	77				
+vinobapuri	VNPR	FALSE	TRUE	TRUE	7	66	6		29	77	M/s. Hindustan Trading Co.	9891014005	28	77
+vidhan sabha	VS	FALSE	TRUE	FALSE	0	0	0		29	77				
+vasant vihar	VTVR	FALSE	TRUE	TRUE	148	1424	138	Near Gate No. 3	29	77	M/s. Dhiraj Gupta.	9811115398	29	77
+vishwavidyalaya	VW	FALSE	TRUE	TRUE	126	1214	118	Near Gate No.2	29	77	M/s. MAAC International Facility Management Private Limited.	9958986677	29	77
+welcome	WC	TRUE	TRUE	TRUE	100	800	150	Near Exit Gate	29	77	M/s. Milestone Security and Placement Services.	"9990053233
+9873126174"	29	77
+yamuna bank	YB	FALSE	TRUE	TRUE	40	150	130	Near Gate No. 1	29	77	M/s. Ajay Kumar.	"9013414327
+9810035926"	29	77

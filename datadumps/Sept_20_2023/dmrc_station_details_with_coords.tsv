@@ -1,0 +1,673 @@
+station_name	station_code	elevated	toilet	gate_number	gate_location	divyang_friendly	parking_available	parking_cycle	parking_motorcycle	parking_car	lat	lon
+												
+												
+												
+												
+												
+												
+												
+arjan garh	AJG	TRUE	TRUE	gate no. 2	gurugram mehrauli road indian metrological department	TRUE	TRUE	32	311	30	28.48082	77.12587
+arjan garh	AJG	TRUE	TRUE	gate no. 1	mehrauli gurugram road aya- nagar	FALSE	TRUE	32	311	30	28.48082	77.12587
+												
+												
+akshardham	ASDM	TRUE	TRUE	gate no. 3	foot over bridge	FALSE	TRUE	40	150	120	28.618364	77.279816
+akshardham	ASDM	TRUE	TRUE	gate no. 2	parking side	TRUE	TRUE	40	150	120	28.618364	77.279816
+akshardham	ASDM	TRUE	TRUE	gate no. 1	east aproach road	TRUE	TRUE	40	150	120	28.618364	77.279816
+												
+												
+												
+												
+												
+azadpur	AZU	TRUE	TRUE	gate no. 4	model town 3	TRUE	TRUE	51	491	48	28.70704725	77.1803931
+azadpur	AZU	TRUE	TRUE	gate no. 3	"lal bagh, gt karnal road"	TRUE	TRUE	51	491	48	28.70704725	77.1803931
+azadpur	AZU	TRUE	TRUE	gate no. 2	azadpur bus terminal	FALSE	TRUE	51	491	48	28.70704725	77.1803931
+azadpur	AZU	TRUE	TRUE	gate no. 1	mcd flats	TRUE	TRUE	51	491	48	28.70704725	77.1803931
+bata chowk	BACH	TRUE	TRUE	gate no. 3	radisson blue hotel	TRUE	TRUE	10	250	20	28.38594604	77.31343573
+bata chowk	BACH	TRUE	TRUE	gate no. 2	silvercity mall	FALSE	TRUE	10	250	20	28.38594604	77.31343573
+bata chowk	BACH	TRUE	TRUE	gate no. 1	eldeco mall	TRUE	TRUE	10	250	20	28.38594604	77.31343573
+botanical garden	BCGN	FALSE	TRUE	gate no. 1	captain vijayat thapar marg	TRUE	TRUE	20	750	175	28.56393455	77.33439597
+botanical garden	BCGN	FALSE	TRUE	gate no. 4	multilevel parking	TRUE	TRUE	20	750	175	28.56393455	77.33439597
+botanical garden	BCGN	FALSE	TRUE	gate no. 3	capt. vijyant thapar marg	TRUE	TRUE	20	750	175	28.56393455	77.33439597
+botanical garden	BCGN	FALSE	TRUE	gate no. 2	capt. vijyant thapar marg	TRUE	TRUE	20	750	175	28.56393455	77.33439597
+haiderpur badli mor	BIMR	TRUE	TRUE	gate no. 3	"max hospital,shalimar bagh"	FALSE	TRUE	57	552	54	28.73003366	77.14909483
+haiderpur badli mor	BIMR	TRUE	TRUE	gate no. 2	kanishka apartments	TRUE	TRUE	57	552	54	28.73003366	77.14909483
+haiderpur badli mor	BIMR	TRUE	TRUE	gate no. 1	badli village	FALSE	TRUE	57	552	54	28.73003366	77.14909483
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+chhatarpur	CHTP	TRUE	TRUE	gate no. 3	mg road	FALSE	TRUE	84	810	79	28.506584	77.174866
+chhatarpur	CHTP	TRUE	TRUE	gate no. 2	south west delhi	FALSE	TRUE	84	810	79	28.506584	77.174866
+chhatarpur	CHTP	TRUE	TRUE	gate no. 1	mg road	TRUE	TRUE	84	810	79	28.506584	77.174866
+brig. hoshiar singh	CIPK	TRUE	TRUE	gate no. 2	iocl petrol pump	TRUE	TRUE	54	517	50	28.697428	76.919128
+brig. hoshiar singh	CIPK	TRUE	TRUE	gate no. 1	ch. devilal park	TRUE	TRUE	54	517	50	28.697428	76.919128
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+durgabai deshmukh south campus	DDSC	TRUE	TRUE	gate no. 2	"smriti vatika, san martin park, northern railway eco park"	TRUE	TRUE	0	0	0	28.589376	77.169518
+durgabai deshmukh south campus	DDSC	TRUE	TRUE	gate no. 1	"sh. venkateswar college, satya niketan"	TRUE	TRUE	0	0	0	28.589376	77.169518
+												
+												
+												
+												
+												
+												
+												
+dwarka mor	DM	TRUE	TRUE	gate no. 2	sewak park side	FALSE	TRUE	48	464	45	28.619366	77.033188
+dwarka mor	DM	TRUE	TRUE	gate no. 2	sewak park side	FALSE	TRUE	25	235	23	28.619366	77.033188
+dwarka mor	DM	TRUE	TRUE	gate no. 1	rama park side	TRUE	TRUE	48	464	45	28.619366	77.033188
+dwarka mor	DM	TRUE	TRUE	gate no. 1	rama park side	TRUE	TRUE	25	235	23	28.619366	77.033188
+dhansa bus stand	DNBT	TRUE	TRUE	gate no.1	fire station side	TRUE	TRUE	50	200	130	28.61191477	76.9785458
+dhansa bus stand	DNBT	TRUE	TRUE	gate no. 2	mcd office	TRUE	TRUE	50	200	130	28.61191477	76.9785458
+dhansa bus stand	DNBT	TRUE	TRUE	gate no. 3	dhansa bus stop	TRUE	TRUE	50	200	130	28.61191477	76.9785458
+dwarka sector - 11	DSE	TRUE	TRUE	gate no. 1	ambrahi village	TRUE	TRUE	58	550	54	28.58642	77.049255
+dwarka sector - 11	DSE	TRUE	TRUE	gate no. 2	st. gregorious school	TRUE	TRUE	58	550	54	28.58642	77.049255
+dwarka sector - 14	DSFN	TRUE	TRUE	gate no. 2	bharat vihar	TRUE	TRUE	14	135	13	28.602232	77.02594
+dwarka sector - 14	DSFN	TRUE	TRUE	gate no. 1	"national law university, ip university"	TRUE	TRUE	14	135	13	28.602232	77.02594
+dilshad garden	DSG	TRUE	TRUE	gate no. 1	towards parking	TRUE	TRUE	10	300	100	28.675991	77.321495
+dilshad garden	DSG	TRUE	TRUE	gate no. 1	towards parking	TRUE	TRUE	0	350	0	28.675991	77.321495
+dilshad garden	DSG	TRUE	TRUE	gate no. 1	towards parking	TRUE	TRUE	0	0	100	28.675991	77.321495
+dilshad garden	DSG	TRUE	TRUE	gate no. 2	towards dilshad colony	FALSE	TRUE	10	300	100	28.675991	77.321495
+dilshad garden	DSG	TRUE	TRUE	gate no. 2	towards dilshad colony	FALSE	TRUE	0	350	0	28.675991	77.321495
+dilshad garden	DSG	TRUE	TRUE	gate no. 2	towards dilshad colony	FALSE	TRUE	0	0	100	28.675991	77.321495
+												
+												
+												
+dwarka sector - 9	DSN	TRUE	TRUE	gate no. 2	gas agency	TRUE	TRUE	140	1341	130	28.574284	77.065086
+dwarka sector - 9	DSN	TRUE	TRUE	gate no. 1	sector - 23 marble market	TRUE	TRUE	140	1341	130	28.574284	77.065086
+												
+												
+												
+												
+dwarka sector - 12	DSW	TRUE	TRUE	gate no. 2	city centre mall	TRUE	TRUE	20	50	100	28.592234	77.040558
+dwarka sector - 12	DSW	TRUE	TRUE	gate no. 1	service road	TRUE	TRUE	20	50	100	28.592234	77.040558
+dwarka	DW	TRUE	TRUE	gate no. 2	"crpf quarters, vipin garden, nand vihar"	TRUE	TRUE	119	1143	111	28.61588467	77.02241062
+dwarka	DW	TRUE	TRUE	gate no. 1	"crpf quarters, kakrola gaon"	TRUE	TRUE	119	1143	111	28.61588467	77.02241062
+dwarka	DW	TRUE	TRUE	gate no. 4	"crpf quarters, vipin garden, nand vihar"	FALSE	TRUE	119	1143	111	28.61588467	77.02241062
+dwarka	DW	TRUE	TRUE	gate no. 3	"crpf quarters, vipin garden, nand vihar"	TRUE	TRUE	119	1143	111	28.61588467	77.02241062
+												
+												
+escorts mujesar	ECMJ	TRUE	TRUE	gate no. 3	motor repair market	TRUE	TRUE	10	200	15	28.370199	77.315002
+escorts mujesar	ECMJ	TRUE	TRUE	gate no. 2	main mathura road	TRUE	TRUE	10	200	15	28.370199	77.315002
+escorts mujesar	ECMJ	TRUE	TRUE	gate no. 1	main mathura road	FALSE	TRUE	10	200	15	28.370199	77.315002
+												
+												
+govind puri	GDPI	TRUE	TRUE	gate no. 2	masjid	FALSE	TRUE	107	1022	99	28.544413	77.264259
+govind puri	GDPI	TRUE	TRUE	gate no. 1	b d chandiwala hospital	TRUE	TRUE	107	1022	99	28.544413	77.264259
+guru dronacharya	GE	TRUE	TRUE	gate no. 2	hp petrol pump	TRUE	TRUE	98	938	91	28.482075	77.102219
+guru dronacharya	GE	TRUE	TRUE	gate no. 1	global business park	TRUE	TRUE	98	938	91	28.482075	77.102219
+												
+												
+												
+												
+												
+												
+												
+												
+												
+green park	GNPK	FALSE	TRUE	gate no. 4	"safdarganj enclave,gurudwara,arjun nagar,green park extension"	FALSE	TRUE	20	120	43	28.559853	77.206902
+green park	GNPK	FALSE	TRUE	gate no. 3	"deer park,hauz khas village,uphar cinema,gurudwara,green park extension"	TRUE	TRUE	20	120	43	28.559853	77.206902
+green park	GNPK	FALSE	TRUE	gate no. 2	"sirifort auditorium,nift,hauz khas market,gulmohar enclave,indian oil building"	TRUE	TRUE	20	120	43	28.559853	77.206902
+green park	GNPK	FALSE	TRUE	gate no. 1	"yusuf sarai,indian oil building"	FALSE	TRUE	20	120	43	28.559853	77.206902
+guru teg bahadur nagar	GTBR	FALSE	TRUE	gate no. 5	new police line	FALSE	TRUE	74	714	69	28.69814019	77.2064108
+guru teg bahadur nagar	GTBR	FALSE	TRUE	gate no. 4	kingsway camp chowk	FALSE	TRUE	74	714	69	28.69814019	77.2064108
+guru teg bahadur nagar	GTBR	FALSE	TRUE	gate no. 3	hudson lane	FALSE	TRUE	74	714	69	28.69814019	77.2064108
+guru teg bahadur nagar	GTBR	FALSE	TRUE	gate no. 2	batra cinema	FALSE	TRUE	74	714	69	28.69814019	77.2064108
+guru teg bahadur nagar	GTBR	FALSE	TRUE	gate no. 1	outram lines	TRUE	TRUE	74	714	69	28.69814019	77.2064108
+ghitorni	GTNI	TRUE	TRUE	gate no. 2	ghitorni village	TRUE	TRUE	103	985	96	28.49383	77.149071
+ghitorni	GTNI	TRUE	TRUE	gate no. 1	"gadaipur,dlf farms"	TRUE	TRUE	103	985	96	28.49383	77.149071
+huda city centre	HCC	TRUE	TRUE	gate no. 4	max hospital	TRUE	TRUE	318	3052	297	28.459118	77.072586
+huda city centre	HCC	TRUE	TRUE	gate no. 3	unitech buisiness park	FALSE	TRUE	318	3052	297	28.459118	77.072586
+huda city centre	HCC	TRUE	TRUE	gate no. 2	fortis hospital	FALSE	TRUE	318	3052	297	28.459118	77.072586
+huda city centre	HCC	TRUE	TRUE	gate no. 1	fortis hospital	FALSE	TRUE	318	3052	297	28.459118	77.072586
+hindon river	HDNR	TRUE	TRUE	gate no. 1	"hindon vihar, nandgram"	TRUE	TRUE	49	594	57	28.673508	77.40654
+hindon river	HDNR	TRUE	TRUE	gate no. 2	"sai upvan temple, hindon ghat"	TRUE	TRUE	49	594	57	28.673508	77.40654
+hauz khas	HKS	FALSE	TRUE	gate no. 4	kalu sarai	TRUE	TRUE	35	339	33	28.54334336	77.20503644
+hauz khas	HKS	FALSE	TRUE	gate no. 2	laxman public school	FALSE	TRUE	35	339	33	28.54334336	77.20503644
+hauz khas	HKS	FALSE	TRUE	gate no. 1	outer ring road towards iit	TRUE	TRUE	35	339	33	28.54334336	77.20503644
+hauz khas	HKS	FALSE	TRUE	gate no. 3	shri krishna chaitanya mahaprabhu parg	TRUE	TRUE	35	339	33	28.54334336	77.20503644
+indraprastha	IDPT	TRUE	TRUE	gate no. 1	"mahatma gandhi marg, ip estate"	TRUE	TRUE	10	50	150	28.620272	77.250076
+indraprastha	IDPT	TRUE	TRUE	gate no. 2	near dtc headquarters	FALSE	TRUE	10	50	150	28.620272	77.250076
+iffco chowk	IFOC	TRUE	TRUE	gate no. 3	umkal hospital	FALSE	TRUE	318	1198	116	28.472137	77.072502
+iffco chowk	IFOC	TRUE	TRUE	gate no. 2	iffco tower	TRUE	TRUE	318	1198	116	28.472137	77.072502
+iffco chowk	IFOC	TRUE	TRUE	gate no. 1	bus stand towards m.g. road	FALSE	TRUE	318	1198	116	28.472137	77.072502
+												
+												
+												
+												
+												
+												
+inderlok	ILOK	TRUE	TRUE	gate no. 6	cisf dog training area	FALSE	TRUE	164	1577	153	28.673452	77.170235
+inderlok	ILOK	TRUE	TRUE	gate no. 5	nirankari bhawan	TRUE	TRUE	164	1577	153	28.673452	77.170235
+inderlok	ILOK	TRUE	TRUE	gate no. 4	cooler market	FALSE	TRUE	164	1577	153	28.673452	77.170235
+inderlok	ILOK	TRUE	TRUE	gate no. 3	big bazaar exit	FALSE	TRUE	164	1577	153	28.673452	77.170235
+inderlok	ILOK	TRUE	TRUE	gate no. 2	service road	FALSE	TRUE	164	1577	153	28.673452	77.170235
+inderlok	ILOK	TRUE	TRUE	gate no. 1	big bazaar entry	TRUE	TRUE	164	1577	153	28.673452	77.170235
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+jamia milia islamiya	JANR	FALSE	TRUE	gate no. 3	tikona park	TRUE	TRUE	50	476	46	28.562944	77.286209
+jamia milia islamiya	JANR	FALSE	TRUE	gate no. 2	batla house	FALSE	TRUE	50	476	46	28.562944	77.286209
+jamia milia islamiya	JANR	FALSE	TRUE	gate no. 1	jamia millia islamia university	TRUE	TRUE	50	476	46	28.562944	77.286209
+												
+												
+												
+												
+												
+												
+												
+												
+jahangirpuri	JGPI	TRUE	TRUE	gate no. 4	jahangirpuri industrial area	TRUE	TRUE	84	808	79	28.72599753	77.16266103
+jahangirpuri	JGPI	TRUE	TRUE	gate no. 3	rajasthan udyog nagar	FALSE	TRUE	84	808	79	28.72599753	77.16266103
+jahangirpuri	JGPI	TRUE	TRUE	gate no. 2	"jahangirpuri mahendra park , dda flat & a block"	TRUE	TRUE	84	808	79	28.72599753	77.16266103
+jahangirpuri	JGPI	TRUE	TRUE	gate no. 1	"jahangirpuri ram garh , dda flat & a block"	FALSE	TRUE	84	808	79	28.72599753	77.16266103
+												
+												
+jasola-apollo	JLA	TRUE	TRUE	gate no. 2	u.s. complex	TRUE	TRUE	22	207	20	28.53817844	77.28324105
+jasola-apollo	JLA	TRUE	TRUE	gate no. 1	indraprasta apollo hospital	TRUE	TRUE	22	207	20	28.53817844	77.28324105
+jhilmil	JLML	TRUE	TRUE	gate no. 1	jhilmil industrial area	TRUE	TRUE	50	250	105	28.675648	77.312393
+jhilmil	JLML	TRUE	TRUE	gate no. 2	towards gt road	TRUE	TRUE	50	250	105	28.675648	77.312393
+												
+												
+												
+												
+												
+janak puri east	JPE	TRUE	TRUE	gate no. 3	"village nangli jalib and janakpuri b1,b2 block"	FALSE	TRUE	76	731	71	28.633121	77.086578
+janak puri east	JPE	TRUE	TRUE	gate no. 2	amarleela hospital and bharti college	FALSE	TRUE	76	731	71	28.633121	77.086578
+janak puri east	JPE	TRUE	TRUE	gate no. 1	mahaveer nagar and vikas puri	TRUE	TRUE	76	731	71	28.633121	77.086578
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+kohat enclave	KE	TRUE	TRUE	gate no. 3	kapil vihar	FALSE	TRUE	25	150	200	28.697943	77.140465
+kohat enclave	KE	TRUE	TRUE	gate no. 3	kapil vihar	FALSE	TRUE	15	100	30	28.697943	77.140465
+kohat enclave	KE	TRUE	TRUE	gate no. 1	maurya enclave	TRUE	TRUE	25	150	200	28.697943	77.140465
+kohat enclave	KE	TRUE	TRUE	gate no. 1	maurya enclave	TRUE	TRUE	15	100	30	28.697943	77.140465
+kohat enclave	KE	TRUE	TRUE	gate no. 2	kohat enclave	TRUE	TRUE	25	150	200	28.697943	77.140465
+kohat enclave	KE	TRUE	TRUE	gate no. 2	kohat enclave	TRUE	TRUE	15	100	30	28.697943	77.140465
+												
+												
+												
+												
+												
+kalkaji mandir	KJMD	FALSE	TRUE	gate no. 1	"block 9,kalkaji ,new delhi,delhi-110019"	TRUE	TRUE	0	100	150	28.549532	77.258789
+kalkaji mandir	KJMD	FALSE	TRUE	gate no. 4	bhairav mandir	TRUE	TRUE	0	100	150	28.549532	77.258789
+kalkaji mandir	KJMD	FALSE	TRUE	gate no. 3	mtnl building	FALSE	TRUE	0	100	150	28.549532	77.258789
+kalkaji mandir	KJMD	FALSE	TRUE	gate no. 2	"lotus temple, kalkaji mandir"	TRUE	TRUE	0	100	150	28.549532	77.258789
+karkarduma	KKDA	TRUE	TRUE	gate no. 4 (pink line)	towards karkardooma village	FALSE	TRUE	35	400	200	28.64938496	77.30606244
+karkarduma	KKDA	TRUE	TRUE	gate no. 3 (pink line)	towards karkardooma village	TRUE	TRUE	35	400	200	28.64938496	77.30606244
+karkarduma	KKDA	TRUE	TRUE	gate no. 2	shanti mukund	TRUE	TRUE	35	400	200	28.64938496	77.30606244
+karkarduma	KKDA	TRUE	TRUE	gate no. 1	karkardooma village	TRUE	TRUE	35	400	200	28.64938496	77.30606244
+												
+												
+												
+												
+												
+												
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 1	towards tota ram bazaar	FALSE	TRUE	60	1200	400	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 1	towards tota ram bazaar	FALSE	TRUE	20	90	25	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 1	towards tota ram bazaar	FALSE	TRUE	30	100	30	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 2	towards tri nagar	FALSE	TRUE	60	1200	400	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 2	towards tri nagar	FALSE	TRUE	20	90	25	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 2	towards tri nagar	FALSE	TRUE	30	100	30	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 3	towards jj colony	FALSE	TRUE	60	1200	400	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 3	towards jj colony	FALSE	TRUE	20	90	25	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 3	towards jj colony	FALSE	TRUE	30	100	30	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 4	towards mdc complex	TRUE	TRUE	60	1200	400	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 4	towards mdc complex	TRUE	TRUE	20	90	25	28.68239924	77.16477705
+kanhaiya nagar 	KN	TRUE	TRUE	gate no. 4	towards mdc complex	TRUE	TRUE	30	100	30	28.68239924	77.16477705
+keshav puram	KP	TRUE	TRUE	gate no. 1	"towards dispensary, chotu ram dharamshala"	FALSE	TRUE	60	350	100	28.688944	77.161774
+keshav puram	KP	TRUE	TRUE	gate no. 2	towards keshav puram residential area	FALSE	TRUE	60	350	100	28.688944	77.161774
+keshav puram	KP	TRUE	TRUE	gate no. 3	adjacent to parking	FALSE	TRUE	60	350	100	28.688944	77.161774
+keshav puram	KP	TRUE	TRUE	gate no. 4	towards ashok vihar	FALSE	TRUE	60	350	100	28.688944	77.161774
+kaushambi	KSHI	TRUE	TRUE	gate no. 3	towards fob	FALSE	TRUE	20	250	100	28.645428	77.322273
+kaushambi	KSHI	TRUE	TRUE	gate no. 2	towards yashoda hospital and wave cinema	FALSE	TRUE	20	250	100	28.645428	77.322273
+kaushambi	KSHI	TRUE	TRUE	gate no. 1	towards mohan nagar anand vihar road	TRUE	TRUE	20	250	100	28.645428	77.322273
+lajpat nagar	LJPN	TRUE	TRUE	gate no. 5 (pink line)	block 1 lajpat nagar iii	TRUE	TRUE	10	40	75	28.57058696	77.23640838
+lajpat nagar	LJPN	TRUE	TRUE	gate no. 3	defence colony	TRUE	TRUE	10	40	75	28.57058696	77.23640838
+lajpat nagar	LJPN	TRUE	TRUE	gate no. 2	lajpat nagar market	FALSE	TRUE	10	40	75	28.57058696	77.23640838
+lajpat nagar	LJPN	TRUE	TRUE	gate no. 1	parking side-lajpat nagar market	TRUE	TRUE	10	40	75	28.57058696	77.23640838
+												
+												
+												
+												
+												
+												
+												
+												
+												
+madipur	MAPR	TRUE	TRUE	gate no. 2	railways reservation counter	TRUE	TRUE	104	997	97	28.676474	77.11936599
+madipur	MAPR	TRUE	TRUE	gate no. 1	madipur village	FALSE	TRUE	104	997	97	28.676474	77.11936599
+												
+												
+												
+												
+												
+												
+												
+												
+mohan estate	METE	TRUE	TRUE	gate no. 2	dmrc staff qtr	TRUE	TRUE	91	873	85	28.51959	77.294518
+mohan estate	METE	TRUE	TRUE	gate no. 1	haldiram	TRUE	TRUE	91	873	85	28.51959	77.294518
+m.g. road	MGRO	TRUE	TRUE	gate no. 2	mgf metropoliton mall	TRUE	TRUE	35	338	33	28.47954637	77.07989815
+m.g. road	MGRO	TRUE	TRUE	gate no. 1	dt city centre mall	TRUE	TRUE	35	338	33	28.47954637	77.07989815
+												
+												
+												
+pandit shree ram sharma	MIEE	TRUE	TRUE	gate no. 2	mie part b	TRUE	TRUE	60	572	56	28.689213	76.951088
+pandit shree ram sharma	MIEE	TRUE	TRUE	gate no. 1	mie part a	TRUE	TRUE	60	572	56	28.689213	76.951088
+												
+												
+												
+												
+												
+												
+												
+												
+majlis park	MKPR	TRUE	TRUE	gate no. 2	exit towards arihant marg	TRUE	TRUE	100	150	70	28.724157	77.182068
+majlis park	MKPR	TRUE	TRUE	gate no. 1	entry from arihant marg	TRUE	TRUE	100	150	70	28.724157	77.182068
+moolchand	MLCD	TRUE	TRUE	gate no. 1	"moolchand hospital, andrews ganj"	TRUE	TRUE	32	304	30	28.56439157	77.23425739
+moti nagar	MN	TRUE	TRUE	gate no. 4	kirti nagar	FALSE	TRUE	94	901	89	28.6578584	77.14243701
+moti nagar	MN	TRUE	TRUE	gate no. 3	kalra hospital	FALSE	TRUE	94	901	89	28.6578584	77.14243701
+moti nagar	MN	TRUE	TRUE	gate no. 2	fun cinema	TRUE	TRUE	94	901	89	28.6578584	77.14243701
+moti nagar	MN	TRUE	TRUE	gate no. 1	moti nagar market	TRUE	TRUE	94	901	89	28.6578584	77.14243701
+												
+												
+mansarovar park	MPK	TRUE	TRUE	gate no. 1	jhilmil industrial area	TRUE	TRUE	60	250	30	28.67538681	77.30085609
+mansarovar park	MPK	TRUE	TRUE	gate no. 2	"gt road flyover, swami  dayanand hospital, ihbas, gtb hospital"	TRUE	TRUE	60	250	30	28.67538681	77.30085609
+mundka	MUDK	TRUE	TRUE	gate no. 2	metro parking	TRUE	TRUE	274	2626	255	28.6824463	77.03058163
+mundka	MUDK	TRUE	TRUE	gate no. 1	rohtak road	FALSE	TRUE	274	2626	255	28.6824463	77.03058163
+												
+												
+												
+												
+												
+malviya nagar	MVNR	FALSE	TRUE	gate no. 4	pvr anupam saket	FALSE	TRUE	29	282	27	28.52909208	77.20483495
+malviya nagar	MVNR	FALSE	TRUE	gate no. 3	"select city walk mall,max hospital,saket court"	TRUE	TRUE	29	282	27	28.52909208	77.20483495
+malviya nagar	MVNR	FALSE	TRUE	gate no. 1	"mvnr ps,geetanjali enclave"	TRUE	TRUE	29	282	27	28.52909208	77.20483495
+mayur vihar -i	MVP 1.00	TRUE	TRUE	gate no. 4 (pink line)	arya samaj mandir	TRUE	TRUE	15	100	40	28.60364486	77.29092371
+mayur vihar -i	MVP 1.00	TRUE	TRUE	gate no. 3 (pink line)	mayur vihar phase 1 infront of gate no 02	TRUE	TRUE	15	100	40	28.60364486	77.29092371
+mayur vihar -i	MVP 1.00	TRUE	TRUE	gate no. 2	noida link road	TRUE	TRUE	15	100	40	28.60364486	77.29092371
+mayur vihar -i	MVP 1.00	TRUE	TRUE	gate no. 1	mvp1 residential area	FALSE	TRUE	15	100	40	28.60364486	77.29092371
+												
+												
+mayapuri	MYPI	TRUE	TRUE	gate no. 2	dtc mayapuri depot	TRUE	TRUE	46	445	43	28.637098	77.129738
+mayapuri	MYPI	TRUE	TRUE	gate no. 1	priyadarshni park	TRUE	TRUE	46	445	43	28.637098	77.129738
+												
+												
+shaheed sthal ( new bus adda)	NBAA	TRUE	TRUE	gate no. 1	"meerut mod, pelican hotel, dewan diagnostics"	TRUE	TRUE	16	311	0	28.67064727	77.41546186
+shaheed sthal ( new bus adda)	NBAA	TRUE	TRUE	gate no. 2	"red mall, gt road towards moahan nagar"	TRUE	TRUE	16	311	0	28.67064727	77.41546186
+neelam chowk ajronda	NCAJ	TRUE	TRUE	gate no. 3	18/1 mathura road (opposite neelam chowk ajronda)	TRUE	TRUE	15	250	100	28.39764839	77.31237112
+neelam chowk ajronda	NCAJ	TRUE	TRUE	gate no. 2	"lg04, crown plaza mall, azad colony"	FALSE	TRUE	15	250	100	28.39764839	77.31237112
+neelam chowk ajronda	NCAJ	TRUE	TRUE	gate no. 1	"lakhani armaan, neelam chowk, ajraonda, mathura road"	FALSE	TRUE	15	250	100	28.39764839	77.31237112
+noida city centre	NCC	TRUE	TRUE	gate no. 4	"sector 39, 41, 50 & 51"	FALSE	TRUE	50	220	90	28.574593	77.356117
+noida city centre	NCC	TRUE	TRUE	gate no. 3	logix mall side	FALSE	TRUE	50	220	90	28.574593	77.356117
+noida city centre	NCC	TRUE	TRUE	gate no. 2	"sector 39.41,50 & 51"	TRUE	TRUE	50	220	90	28.574593	77.356117
+noida city centre	NCC	TRUE	TRUE	gate no. 1	dmrc parking side	TRUE	TRUE	50	220	90	28.574593	77.356117
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 4	"airport line , civic center"	FALSE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 3	kamla market	TRUE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 2	new delhi railway station	FALSE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 1	new delhi railway station	FALSE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 6 (airport express)	pathway connecting to new delhi railway station	TRUE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 5 (airport express)	new delhi railway station road	TRUE	TRUE	0	100	800	28.6434814	77.22275094
+new delhi (yellow & airport line)	NDI	FALSE	TRUE	gate no. 1 (airport express)	bhavbhuti marg	TRUE	TRUE	0	100	800	28.6434814	77.22275094
+noida electronic city	NECC	TRUE	TRUE	gate no. 3	"highway tower, i-thumb tower, graphics tower, gol chakkar sect-62"	FALSE	TRUE	10	300	150	28.628685	77.375229
+noida electronic city	NECC	TRUE	TRUE	gate no. 2	"sect-63, h-block noida, sbi, pnb,hdfc bank, haldiram restaurant, ginjer hotel, domino's"	TRUE	TRUE	10	300	150	28.628685	77.375229
+noida electronic city	NECC	TRUE	TRUE	gate no. 1	near dmrc parking	TRUE	TRUE	10	300	150	28.628685	77.375229
+												
+												
+												
+nhpc chowk	NHPC	TRUE	TRUE	gate no. 3	motor 1 (luxury automotive workshop)	TRUE	TRUE	56	534	52	28.45773135	77.30736105
+nhpc chowk	NHPC	TRUE	TRUE	gate no. 2	jiva ayurveda	TRUE	TRUE	56	534	52	28.45773135	77.30736105
+nhpc chowk	NHPC	TRUE	TRUE	gate no. 1	kia motors	FALSE	TRUE	56	534	52	28.45773135	77.30736105
+												
+												
+												
+												
+												
+nangloi	NNOI	TRUE	TRUE	gate no. 2	"govt. sarvodya bal / kanya vidhalaya nangloi, govt girls sr. sec school nangloi"	FALSE	TRUE	254	2438	237	28.682356	77.064728
+nangloi	NNOI	TRUE	TRUE	gate no. 1	"kirari mor, delhi police staff quarter"	TRUE	TRUE	254	2438	237	28.682356	77.064728
+nehru place	NP	TRUE	TRUE	gate no. 2	"nehru place market, eros corporate tower"	TRUE	TRUE	134	1288	125	28.5514154	77.25174052
+												
+												
+												
+												
+												
+												
+												
+												
+netaji subhash place	NSHP	TRUE	TRUE	gate no. 1	towards lots entry	TRUE	TRUE	50	200	80	28.69472868	77.15427959
+netaji subhash place	NSHP	TRUE	TRUE	gate no. 2	towards service road	FALSE	TRUE	50	200	80	28.69472868	77.15427959
+netaji subhash place	NSHP	TRUE	TRUE	gate no. 3	towards lots entry	FALSE	TRUE	50	200	80	28.69472868	77.15427959
+netaji subhash place	NSHP	TRUE	TRUE	gate no. 2 (pink line)	d-mall	TRUE	TRUE	50	200	80	28.69472868	77.15427959
+netaji subhash place	NSHP	TRUE	TRUE	gate no. 1 (pink line)	"towards punjab kesari, ring road"	TRUE	TRUE	50	200	80	28.69472868	77.15427959
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+nawada	NWD	TRUE	TRUE	gate no. 5	matiyala gaon	FALSE	TRUE	14	135	13	28.620222	77.044991
+nawada	NWD	TRUE	TRUE	gate no. 4	matiyala gaon	FALSE	TRUE	14	135	13	28.620222	77.044991
+nawada	NWD	TRUE	TRUE	gate no. 3	kiran garden	FALSE	TRUE	14	135	13	28.620222	77.044991
+nawada	NWD	TRUE	TRUE	gate no. 2	nawada gaon	FALSE	TRUE	14	135	13	28.620222	77.044991
+nawada	NWD	TRUE	TRUE	gate no. 1	shyam park	FALSE	TRUE	14	135	13	28.620222	77.044991
+old faridabad	OFDB	TRUE	TRUE	gate no. 3	ef3 mall	TRUE	TRUE	15	250	100	28.412172	77.311272
+old faridabad	OFDB	TRUE	TRUE	gate no. 2	main mathura road	FALSE	TRUE	15	250	100	28.412172	77.311272
+old faridabad	OFDB	TRUE	TRUE	gate no. 1	sec 16 faridabad	TRUE	TRUE	15	250	100	28.412172	77.311272
+												
+												
+												
+												
+												
+												
+peeragarhi	PAGI	TRUE	TRUE	gate no. 2	udyog nagar industrial area	FALSE	TRUE	54	516	50	28.67972	77.092491
+peeragarhi	PAGI	TRUE	TRUE	gate no. 1	ekta enclave 	TRUE	TRUE	54	516	50	28.67972	77.092491
+												
+												
+												
+punjabi bagh	PBGA	TRUE	TRUE	gate no. 2	"punjabi bagh transport nagar, post office, power house"	TRUE	TRUE	64	615	60	28.672943	77.146011
+punjabi bagh	PBGA	TRUE	TRUE	gate no. 1	"punjabi bagh railway colony, jaidev park, bhagwan das nagar"	TRUE	TRUE	64	615	60	28.672943	77.146011
+pulbangash	PBGH	TRUE	TRUE	gate no. 1	towards roshanara road 	TRUE	TRUE	25	77	250	28.66640645	77.20742477
+												
+												
+patel nagar	PN	TRUE	TRUE	gate no. 6	kailash nursing home	FALSE	TRUE	31	297	29	28.645035	77.16935242
+patel nagar	PN	TRUE	TRUE	gate no. 5	near parking	TRUE	TRUE	31	297	29	28.645035	77.16935242
+patel nagar	PN	TRUE	TRUE	gate no. 4	"shivaji marg, najafgarh road"	FALSE	TRUE	31	297	29	28.645035	77.16935242
+patel nagar	PN	TRUE	TRUE	gate no. 3	domino's	FALSE	TRUE	31	297	29	28.645035	77.16935242
+patel nagar	PN	TRUE	TRUE	gate no. 2	"shivaji marg, najafgarh road"	TRUE	TRUE	31	297	29	28.645035	77.16935242
+patel nagar	PN	TRUE	TRUE	gate no. 1	idfc first bank	FALSE	TRUE	31	297	29	28.645035	77.16935242
+pratap nagar	PRA	TRUE	TRUE	gate no. 1	towards kishanganj railway station 	FALSE	TRUE	15	70	130	28.66670769	77.19888996
+pratap nagar	PRA	TRUE	TRUE	gate no. 2	towards sabzi mandi railway station 	TRUE	TRUE	15	70	130	28.66670769	77.19888996
+												
+												
+												
+patel chowk	PTCK	FALSE	TRUE	gate no. 3	"dak bhawan, sanchar bhawan,niti bhawan"	FALSE	TRUE	79	760	73	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 3	"dak bhawan, sanchar bhawan,niti bhawan"	FALSE	TRUE	91	876	85	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 3	"dak bhawan, sanchar bhawan,niti bhawan"	FALSE	TRUE	49	477	46	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 2	"jantar mantar, state bank of india"	TRUE	TRUE	79	760	73	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 2	"jantar mantar, state bank of india"	TRUE	TRUE	91	876	85	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 2	"jantar mantar, state bank of india"	TRUE	TRUE	49	477	46	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 1	jeevan tara building	TRUE	TRUE	79	760	73	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 1	jeevan tara building	TRUE	TRUE	91	876	85	28.6233955	77.21450189
+patel chowk	PTCK	FALSE	TRUE	gate no. 1	jeevan tara building	TRUE	TRUE	49	477	46	28.6233955	77.21450189
+supreme court	PTMD	TRUE	TRUE	gate no. 4	skywalk	TRUE	TRUE	20	60	30	28.623438	77.2425
+supreme court	PTMD	TRUE	TRUE	gate no. 3	itpo gate no-10	FALSE	TRUE	20	60	30	28.623438	77.2425
+supreme court	PTMD	TRUE	TRUE	gate no. 2	mathura road	TRUE	TRUE	20	60	30	28.623438	77.2425
+supreme court	PTMD	TRUE	TRUE	gate no. 1	supreme court	FALSE	TRUE	20	60	30	28.623438	77.2425
+												
+												
+												
+												
+												
+												
+												
+												
+paschim vihar east	PVE	TRUE	TRUE	gate no. 2	ordnance depot	FALSE	TRUE	30	291	28	28.677305	77.112251
+paschim vihar east	PVE	TRUE	TRUE	gate no. 1	bharti vidyapeeth college	TRUE	TRUE	30	291	28	28.677305	77.112251
+												
+												
+qutab minar	QM	TRUE	TRUE	gate no. 2	anuvart marg	TRUE	TRUE	49	471	46	28.51294868	77.18644648
+qutab minar	QM	TRUE	TRUE	gate no. 1	anuvart marg	TRUE	TRUE	49	471	46	28.51294868	77.18644648
+rajiv chowk	RCK	FALSE	TRUE	gate no. 8	"radial road-3, panchkuian road , a block"	TRUE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 7	"radial road -2, baba kharak singh marg , a block"	TRUE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 6	"radial road-1, janpath road,palika bazar"	FALSE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 5	"radial road-1, janpath road, f block"	FALSE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 4	"e block, barakhamba road, kasturba gandhi road"	FALSE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 3	"d block, carnival cinema(odean)"	FALSE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 2	", pvr plaza"	TRUE	TRUE	0	600	1500	28.63271384	77.21931251
+rajiv chowk	RCK	FALSE	TRUE	gate no. 1	"radial road-3, panchkuian road , b block, minto road"	TRUE	TRUE	0	600	1500	28.63271384	77.21931251
+												
+												
+rajouri garden	RG	TRUE	TRUE	gate no. 2	rajouri garden	TRUE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 1	rajouri garden	TRUE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 8	"janta market, rajouri"	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 7	nazafgarh road	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 6	nazafgarh road	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 5	nazafgarh road	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 4	tdi mall	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 3	towards parking	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 2 (pink line)	dc office	FALSE	TRUE	35	334	32	28.6512021	77.12427115
+rajouri garden	RG	TRUE	TRUE	gate no. 1 (pink line)	ring road	TRUE	TRUE	35	334	32	28.6512021	77.12427115
+rohini east	RHE	TRUE	TRUE	gate no. 3	"sec.9, rohini court, fire station"	TRUE	TRUE	20	200	120	28.707941	77.125732
+rohini east	RHE	TRUE	TRUE	gate no. 3	"sec.9, rohini court, fire station"	TRUE	TRUE	4	50	5	28.707941	77.125732
+rohini east	RHE	TRUE	TRUE	gate no. 2	sec.7 & 8 rohini	FALSE	TRUE	20	200	120	28.707941	77.125732
+rohini east	RHE	TRUE	TRUE	gate no. 2	sec.7 & 8 rohini	FALSE	TRUE	4	50	5	28.707941	77.125732
+rohini east	RHE	TRUE	TRUE	gate no. 1	sec.7 & 8 rohini	FALSE	TRUE	20	200	120	28.707941	77.125732
+rohini east	RHE	TRUE	TRUE	gate no. 1	sec.7 & 8 rohini	FALSE	TRUE	4	50	5	28.707941	77.125732
+												
+												
+												
+rithala	RI	TRUE	TRUE	gate no. 3	towards sec-11  rohini	TRUE	TRUE	125	1198	116	28.72080395	77.10718988
+rithala	RI	TRUE	TRUE	gate no. 2	towards sec-24  rohini	FALSE	TRUE	125	1198	116	28.72080395	77.10718988
+rithala	RI	TRUE	TRUE	gate no. 1	towards sec-5  rohini	FALSE	TRUE	125	1198	116	28.72080395	77.10718988
+"rohini sector - 18, 19"	RISE	TRUE	TRUE	gate no. 2	paradise apartments	TRUE	TRUE	82	791	77	28.73838768	77.13990896
+"rohini sector - 18, 19"	RISE	TRUE	TRUE	gate no. 1	divyajyoti apartments	TRUE	TRUE	82	791	77	28.73838768	77.13990896
+												
+												
+												
+												
+ramakrishna ashram marg	RKAM	TRUE	TRUE	gate no. 5	parking	FALSE	TRUE	52	497	48	28.63922536	77.20856768
+ramakrishna ashram marg	RKAM	TRUE	TRUE	gate no. 4	lady harding hospital	FALSE	TRUE	52	497	48	28.63922536	77.20856768
+ramakrishna ashram marg	RKAM	TRUE	TRUE	gate no. 3	goal market	FALSE	TRUE	52	497	48	28.63922536	77.20856768
+ramakrishna ashram marg	RKAM	TRUE	TRUE	gate no. 2	"rama krishan mission, new delhi railway station, paharganj"	FALSE	TRUE	52	497	48	28.63922536	77.20856768
+ramakrishna ashram marg	RKAM	TRUE	TRUE	gate no. 1	"panchkuian road, chitragupta road, sadar bazaar"	TRUE	TRUE	52	497	48	28.63922536	77.20856768
+												
+												
+												
+												
+												
+ramesh nagar	RN	TRUE	TRUE	gate no. 5	ramesh nagar	FALSE	TRUE	63	602	59	28.652809	77.131462
+ramesh nagar	RN	TRUE	TRUE	gate no. 4	namdhari colony	FALSE	TRUE	63	602	59	28.652809	77.131462
+ramesh nagar	RN	TRUE	TRUE	gate no. 3	raja garden	FALSE	TRUE	63	602	59	28.652809	77.131462
+ramesh nagar	RN	TRUE	TRUE	gate no. 2	basai darapur	TRUE	TRUE	63	602	59	28.652809	77.131462
+ramesh nagar	RN	TRUE	TRUE	gate no. 1	bali nagar	TRUE	TRUE	63	602	59	28.652809	77.131462
+rajendra place	RP	TRUE	TRUE	gate no. 4	krishi kunj	FALSE	TRUE	32	305	30	28.64252098	77.17832235
+rajendra place	RP	TRUE	TRUE	gate no. 3	old rajender nagar	FALSE	TRUE	32	305	30	28.64252098	77.17832235
+rajendra place	RP	TRUE	TRUE	gate no. 2	blk hospital	FALSE	TRUE	32	305	30	28.64252098	77.17832235
+rajendra place	RP	TRUE	TRUE	gate no. 1	rajendra bhawan	FALSE	TRUE	32	305	30	28.64252098	77.17832235
+												
+												
+												
+												
+saket	SAKT	FALSE	TRUE	gate no. 3	"cisf camp,saket d block"	FALSE	TRUE	85	812	79	28.52117387	77.20227044
+saket	SAKT	FALSE	TRUE	gate no. 2	garden of five senses	TRUE	TRUE	85	812	79	28.52117387	77.20227044
+saket	SAKT	FALSE	TRUE	gate no. 1	vidya niketan	TRUE	TRUE	85	812	79	28.52117387	77.20227044
+												
+												
+												
+												
+												
+shahdara	SHD	TRUE	TRUE	gate no. 1	"west end (facing gt road), parsavnath mall, vikas cinema mall"	TRUE	TRUE	163	1569	150	28.67345713	77.28988398
+shahdara	SHD	TRUE	TRUE	gate no. 2	east end (indian railways side)	FALSE	TRUE	163	1569	150	28.67345713	77.28988398
+shaheed nagar	SHDN	TRUE	TRUE	gate no. 1	opp. shani dev mandir	TRUE	TRUE	74	714	69	28.676615	77.333809
+shaheed nagar	SHDN	TRUE	TRUE	gate no. 2	near shani dev mandir	TRUE	TRUE	74	714	69	28.676615	77.333809
+shastri park	SHPK	FALSE	TRUE	gate no. 1	towards gandhi nagar market	TRUE	TRUE	50	250	0	28.668451	77.250404
+shastri park	SHPK	FALSE	TRUE	gate no. 1	towards gandhi nagar market	TRUE	TRUE	0	0	55	28.668451	77.250404
+shastri park	SHPK	FALSE	TRUE	gate no. 2	towards it park	FALSE	TRUE	50	250	0	28.668451	77.250404
+shastri park	SHPK	FALSE	TRUE	gate no. 2	towards it park	FALSE	TRUE	0	0	55	28.668451	77.250404
+shastri nagar	SHT	TRUE	TRUE	gate no. 1	towards sarai rohilla railway station	FALSE	TRUE	9	70	60	28.670135	77.181679
+shastri nagar	SHT	TRUE	TRUE	gate no. 1	towards sarai rohilla railway station	FALSE	TRUE	10	20	110	28.670135	77.181679
+shastri nagar	SHT	TRUE	TRUE	gate no. 2	towards shastri nagar market	TRUE	TRUE	9	70	60	28.670135	77.181679
+shastri nagar	SHT	TRUE	TRUE	gate no. 2	towards shastri nagar market	TRUE	TRUE	10	20	110	28.670135	77.181679
+												
+												
+sikanderpur	SKRP	FALSE	TRUE	gate no. 6 (rapid metro)	emaar bussiness park side	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 5 (rapid metro)	emaar bussiness park side	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 4 (rapid metro)	sikanderpur main road	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 3 (rapid metro)	sikanderpur main road	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 2 (rapid metro)	sikanderpur village side	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 2	dlf city court	FALSE	TRUE	45	432	42	28.48127214	77.09299601
+sikanderpur	SKRP	FALSE	TRUE	gate no. 1	"sahara mall,bristal hotel"	TRUE	TRUE	45	432	42	28.48127214	77.09299601
+												
+												
+seelampur	SLAP	TRUE	FALSE	gate no. 1	towards gt road	TRUE	TRUE	90	900	200	28.66979065	77.26679222
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+subhash nagar	SN	TRUE	TRUE	gate no. 4	"police station, station nagar"	FALSE	TRUE	27	255	25	28.64046358	77.10519523
+subhash nagar	SN	TRUE	TRUE	gate no. 3	meenakshi garden	FALSE	TRUE	27	255	25	28.64046358	77.10519523
+subhash nagar	SN	TRUE	TRUE	gate no. 2	pacific mall	TRUE	TRUE	27	255	25	28.64046358	77.10519523
+subhash nagar	SN	TRUE	TRUE	gate no. 1	"sbi, tilak nagar"	TRUE	TRUE	27	255	25	28.64046358	77.10519523
+												
+												
+												
+												
+												
+												
+shadipur	SP	TRUE	TRUE	gate no. 7	towards parking	FALSE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 6	pandav nagar	FALSE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 5	ranjeet nagar	FALSE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 4	patel nagar	TRUE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 3	patel nagar police station	TRUE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 2	baljeet nagar	TRUE	TRUE	95	911	89	28.65165403	77.1583193
+shadipur	SP	TRUE	TRUE	gate no. 1	towards dms depot & dtc bus depot	TRUE	TRUE	95	911	89	28.65165403	77.1583193
+												
+												
+sarai	SRAI	TRUE	TRUE	gate no. 3	near crown interiorz mall	TRUE	TRUE	25	240	23	28.47794	77.304932
+sarai	SRAI	TRUE	TRUE	gate no. 2	l&t	TRUE	TRUE	25	240	23	28.47794	77.304932
+sarai	SRAI	TRUE	TRUE	gate no. 1	vatika towers	FALSE	TRUE	25	240	23	28.47794	77.304932
+												
+												
+												
+												
+												
+												
+												
+sarita vihar	STVR	TRUE	TRUE	gate no. 2	sarita vihar residential area	TRUE	TRUE	70	667	65	28.528622	77.288345
+sarita vihar	STVR	TRUE	TRUE	gate no. 1	vodafone office	TRUE	TRUE	70	667	65	28.528622	77.288345
+												
+												
+												
+												
+												
+tagore garden	TG	TRUE	TRUE	gate no. 4	"j-block rajori garden,green flats"	TRUE	TRUE	36	343	33	28.643795	77.112747
+tagore garden	TG	TRUE	TRUE	gate no. 3	"cambridge school, dda flats"	TRUE	TRUE	36	343	33	28.643795	77.112747
+tagore garden	TG	TRUE	TRUE	gate no. 2	guru govind singh hospital	FALSE	TRUE	36	343	33	28.643795	77.112747
+tagore garden	TG	TRUE	TRUE	gate no. 1	"kendriya vidyalaya , khyala"	FALSE	TRUE	36	343	33	28.643795	77.112747
+												
+												
+												
+												
+												
+												
+												
+tilak nagar	TN	TRUE	TRUE	gate no. 4	"prem nagar, dmrc authorised parking"	FALSE	TRUE	12	111	11	28.636568	77.096336
+tilak nagar	TN	TRUE	TRUE	gate no. 3	"ashok nagar, fateh nagar, jail road"	TRUE	TRUE	12	111	11	28.636568	77.096336
+tilak nagar	TN	TRUE	TRUE	gate no. 2	"saatmanjila temple, central market"	FALSE	TRUE	12	111	11	28.636568	77.096336
+tilak nagar	TN	TRUE	TRUE	gate no. 1	central market	FALSE	TRUE	12	111	11	28.636568	77.096336
+tis hazari	TZI	TRUE	TRUE	gate no. 1	"towards st. stephen hospital , tis hazari court, sadar bazar, dept. of animal husbandary"	TRUE	TRUE	50	200	150	28.667137	77.216721
+tis hazari	TZI	TRUE	TRUE	gate no. 2	"towards lala hardev sahai marg , st. stephen hospital , tis hazari court, sadar bazar"	TRUE	TRUE	50	200	150	28.667137	77.216721
+tis hazari	TZI	TRUE	TRUE	gate no. 3	"towards metro parking, lt. governor secretariat, aruna asaf ali hospital, rajpur road, boulevard road"	TRUE	TRUE	50	200	150	28.667137	77.216721
+												
+												
+												
+												
+uttam nagar east	UNE	TRUE	TRUE	gate no. 3	pankha road	FALSE	TRUE	105	953	120	28.62482697	77.06527336
+uttam nagar east	UNE	TRUE	TRUE	gate no. 2	pankha road	TRUE	TRUE	105	953	120	28.62482697	77.06527336
+uttam nagar east	UNE	TRUE	TRUE	gate no. 1	towards dtc bus terminal	TRUE	TRUE	105	953	120	28.62482697	77.06527336
+udyog nagar	UNRG	TRUE	TRUE	gate no. 2	udyog nagar industrial area	TRUE	TRUE	87	836	81	28.68110033	77.08085216
+udyog nagar	UNRG	TRUE	TRUE	gate no. 1	jwala puri /inder enclave	FALSE	TRUE	87	836	81	28.68110033	77.08085216
+uttam nagar west	UNW	TRUE	TRUE	gate no. 4	aarya samaj	TRUE	TRUE	40	385	37	28.621672	77.055664
+uttam nagar west	UNW	TRUE	TRUE	gate no. 3	dyalsar road	TRUE	TRUE	40	385	37	28.621672	77.055664
+uttam nagar west	UNW	TRUE	TRUE	gate no. 2	dal mil road	FALSE	TRUE	40	385	37	28.621672	77.055664
+uttam nagar west	UNW	TRUE	TRUE	gate no. 1	dal mil road	FALSE	TRUE	40	385	37	28.621672	77.055664
+vaishali	VASI	TRUE	TRUE	gate no. 3	todards fob	TRUE	TRUE	20	450	0	28.650059	77.337608
+vaishali	VASI	TRUE	TRUE	gate no. 2	"towards vaishali sector 3,4"	TRUE	TRUE	20	450	0	28.650059	77.337608
+vaishali	VASI	TRUE	TRUE	gate no. 1	towards mohan nagar anand vihar road	TRUE	TRUE	20	450	0	28.650059	77.337608
+												
+												
+												
+vinobapuri	VNPR	FALSE	TRUE	gate no. 2	sriniwas puri	FALSE	TRUE	0	0	0	28.56587095	77.24930055
+vinobapuri	VNPR	FALSE	TRUE	gate no. 1	lajpat nagar - ii	TRUE	TRUE	0	0	0	28.56587095	77.24930055
+												
+												
+												
+vasant vihar	VTVR	FALSE	TRUE	gate no. 4	jharkhand bhawan embassy of el salvador	TRUE	TRUE	148	1424	138	28.55780945	77.16113035
+vasant vihar	VTVR	FALSE	TRUE	gate no. 3	" embassy of togo, vasant  lok market"	FALSE	TRUE	148	1424	138	28.55780945	77.16113035
+vasant vihar	VTVR	FALSE	TRUE	gate no. 2	munirka marg	TRUE	TRUE	148	1424	138	28.55780945	77.16113035
+vasant vihar	VTVR	FALSE	TRUE	gate no. 1	gurudwara	FALSE	TRUE	148	1424	138	28.55780945	77.16113035
+viswavidyalaya	VW	FALSE	TRUE	gate no. 4	delhi university	TRUE	TRUE	126	1214	118	28.69503925	77.21472094
+viswavidyalaya	VW	FALSE	TRUE	gate no. 3	delhi university	TRUE	TRUE	126	1214	118	28.69503925	77.21472094
+viswavidyalaya	VW	FALSE	TRUE	gate no. 2	timarpur	TRUE	TRUE	126	1214	118	28.69503925	77.21472094
+viswavidyalaya	VW	FALSE	TRUE	gate no. 1	riviera apartments	TRUE	TRUE	126	1214	118	28.69503925	77.21472094
+welcome	WC	TRUE	TRUE	gate no. 1	towards gt road	TRUE	TRUE	100	800	150	28.67237462	77.27708057
+welcome	WC	TRUE	TRUE	gate no. 2 (pink line)	towards gt road	TRUE	TRUE	100	800	150	28.67237462	77.27708057
+yamuna bank	YB	FALSE	TRUE	gate no. 1	station approch road	TRUE	TRUE	40	150	130	28.623178	77.267937

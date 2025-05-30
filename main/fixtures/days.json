@@ -1,0 +1,65 @@
+[
+  {
+    "model": "main.days",
+    "pk": "Friday",
+    "fields": {
+      "is_active": true,
+      "order": 5,
+      "master_order": 5
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Monday",
+    "fields": {
+      "is_active": true,
+      "order": 1,
+      "master_order": 1
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Saturday",
+    "fields": {
+      "is_active": true,
+      "order": 6,
+      "master_order": 6
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Sunday",
+    "fields": {
+      "is_active": true,
+      "order": 7,
+      "master_order": 7
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Thursday",
+    "fields": {
+      "is_active": true,
+      "order": 4,
+      "master_order": 4
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Tuesday",
+    "fields": {
+      "is_active": true,
+      "order": 2,
+      "master_order": 2
+    }
+  },
+  {
+    "model": "main.days",
+    "pk": "Wednesday",
+    "fields": {
+      "is_active": true,
+      "order": 3,
+      "master_order": 3
+    }
+  }
+]

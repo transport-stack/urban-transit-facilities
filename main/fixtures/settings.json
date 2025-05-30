@@ -1,0 +1,14 @@
+[
+  {
+    "model": "main.settings",
+    "pk": 1,
+    "fields": {
+      "created_at": "2023-09-16T21:51:48.337Z",
+      "updated_at": "2023-09-16T22:06:37.647Z",
+      "is_active": true,
+      "description": null,
+      "title": "Urban Transit",
+      "starting_of_the_week": "Monday"
+    }
+  }
+]

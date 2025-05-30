@@ -1,0 +1,101 @@
+[
+  {
+    "model": "charges.paymentmode",
+    "pk": "CASH",
+    "fields": {
+      "created_at": "2023-09-15T17:27:49.108Z",
+      "updated_at": "2023-09-15T17:27:49.108Z",
+      "is_active": true,
+      "description": "CASH",
+      "is_online": false
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "CREDIT_CARD",
+    "fields": {
+      "created_at": "2023-09-15T17:27:44.338Z",
+      "updated_at": "2023-09-15T17:27:44.338Z",
+      "is_active": true,
+      "description": "CREDIT_CARD",
+      "is_online": true
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "DEBIT_CARD",
+    "fields": {
+      "created_at": "2023-09-15T17:27:40.437Z",
+      "updated_at": "2023-09-15T17:27:40.437Z",
+      "is_active": true,
+      "description": "DEBIT_CARD",
+      "is_online": true
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "NCMC",
+    "fields": {
+      "created_at": "2023-09-15T17:27:34.716Z",
+      "updated_at": "2023-09-15T17:27:34.716Z",
+      "is_active": true,
+      "description": "NCMC",
+      "is_online": true
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "NET_BANKING",
+    "fields": {
+      "created_at": "2023-09-15T17:27:29.174Z",
+      "updated_at": "2023-09-15T17:27:29.174Z",
+      "is_active": true,
+      "description": "NET_BANKING",
+      "is_online": true
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "UNKNOWN",
+    "fields": {
+      "created_at": "2023-09-15T17:27:25.434Z",
+      "updated_at": "2023-09-15T17:27:25.434Z",
+      "is_active": true,
+      "description": "UNKNOWN",
+      "is_online": false
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "UPI",
+    "fields": {
+      "created_at": "2023-09-15T17:27:19.991Z",
+      "updated_at": "2023-09-15T17:27:19.992Z",
+      "is_active": true,
+      "description": "UPI",
+      "is_online": true
+    }
+  },
+  {
+    "model": "charges.paymentmode",
+    "pk": "WALLET",
+    "fields": {
+      "created_at": "2023-09-15T17:27:12.704Z",
+      "updated_at": "2023-09-15T17:27:12.704Z",
+      "is_active": true,
+      "description": "WALLET",
+      "is_online": true
+    }
+  },
+    {
+    "model": "charges.paymentmode",
+    "pk": "FASTAG",
+    "fields": {
+      "created_at": "2023-10-09T17:27:12.704Z",
+      "updated_at": "2023-10-09T17:27:12.704Z",
+      "is_active": true,
+      "description": "FASTAG",
+      "is_online": true
+    }
+  }
+]

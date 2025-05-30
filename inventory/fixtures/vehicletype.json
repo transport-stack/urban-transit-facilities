@@ -1,0 +1,82 @@
+[
+  {
+    "model": "inventory.vehicletype",
+    "pk": "BICYCLE",
+    "fields": {
+      "created_at": "2023-09-11T21:56:57.928Z",
+      "updated_at": "2023-09-11T21:56:57.928Z",
+      "is_active": true,
+      "description": "Bicycle"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "BUS",
+    "fields": {
+      "created_at": "2023-09-11T21:56:52.784Z",
+      "updated_at": "2023-09-11T21:56:52.784Z",
+      "is_active": true,
+      "description": "Bus"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "COMMERCIAL_2",
+    "fields": {
+      "created_at": "2023-09-11T21:56:11.178Z",
+      "updated_at": "2023-09-11T21:56:11.178Z",
+      "is_active": true,
+      "description": "Commercial 2 Wheeler"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "COMMERCIAL_3",
+    "fields": {
+      "created_at": "2023-09-11T21:56:25.082Z",
+      "updated_at": "2023-09-11T21:56:25.082Z",
+      "is_active": true,
+      "description": "Commercial 3 Wheeler"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "COMMERCIAL_4",
+    "fields": {
+      "created_at": "2023-09-11T21:56:36.853Z",
+      "updated_at": "2023-09-11T21:56:36.853Z",
+      "is_active": true,
+      "description": "Commercial 4 Wheeler"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "MULTI_AXLE",
+    "fields": {
+      "created_at": "2023-09-11T21:56:47.664Z",
+      "updated_at": "2023-09-11T21:56:47.664Z",
+      "is_active": true,
+      "description": "Multi Axle"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "PERSONAL_2",
+    "fields": {
+      "created_at": "2023-09-11T21:55:13.083Z",
+      "updated_at": "2023-09-11T21:55:13.083Z",
+      "is_active": true,
+      "description": "Personal 2 Wheeler"
+    }
+  },
+  {
+    "model": "inventory.vehicletype",
+    "pk": "PERSONAL_4",
+    "fields": {
+      "created_at": "2023-09-11T21:55:38.331Z",
+      "updated_at": "2023-09-11T21:55:38.331Z",
+      "is_active": true,
+      "description": "Personal 4 Wheeler"
+    }
+  }
+]

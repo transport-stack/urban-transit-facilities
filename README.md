@@ -31,7 +31,7 @@ These instructions expand upon the existing `README.md`.
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone https://gitlab.com/transport-stack/urban-transit-facilities.git
+    git clone https://github.com/transport-stack/urban-transit-facilities.git
     cd urban-transit-facilities
     ```
 
